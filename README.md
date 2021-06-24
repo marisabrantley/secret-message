@@ -8,4 +8,6 @@ Using JavaScript array methods, we transformed an array of strings into a secret
 ## Class
 *Codecademy/Pro, Front-End Engineer Path*
 
-JavaScript Syntax: Arrays - how to use arrays, a data structure in JavaScript used to store lists of .
+JavaScript Syntax: Arrays - how to use arrays, a data structure in JavaScript used to store lists of data.
+
+(Graphic made with Canva.)
